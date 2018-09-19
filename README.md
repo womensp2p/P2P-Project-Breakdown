@@ -1,4 +1,4 @@
-# GSoC-Projects
+# P2P-Project-Breakdown
 
 [![Gitter](https://img.shields.io/badge/chat-on%20gitter-ff006f.svg?style=flat-square)](https://gitter.im/womensp2p/Lobby)
 
@@ -6,4 +6,3 @@ Women's P2P Network develops by-women, for-women connectivity tools to build and
 
 We intend for this to be an inspiring and safe space where women-focused technologists can collaborate to build tools that connect the world’s women!
 
-Do check our [Ideas page](https://github.com/womensp2p/GSoC-Projects/wiki/Google-Summer-of-Code-2018)
